@@ -1,6 +1,6 @@
 # media
 
-Contains artwork, designs and images related to the webpack project.
+Contains artwork, designs and images related to the webpack projects.
 
 ## Name
 
